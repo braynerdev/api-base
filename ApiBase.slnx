@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ApiBase.API/ApiBase.API.csproj" />
+  <Project Path="ApiBase.Application/ApiBase.Application.csproj" />
+  <Project Path="ApiBase.CrossCutting/ApiBase.CrossCutting.csproj" />
+  <Project Path="ApiBase.Domain/ApiBase.Domain.csproj" />
+  <Project Path="ApiBase.Infrastructure/ApiBase.Infrastructure.csproj" />
+</Solution>

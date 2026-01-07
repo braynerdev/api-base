@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{032C382B-6D9C-4410-90BC-7101E1FCFB24}|ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj|c:\\users\\jbray\\dev\\api-base\\apibase\\apibase.infrastructure\\apibase.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{032C382B-6D9C-4410-90BC-7101E1FCFB24}|ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj|solutionrelative:apibase.infrastructure\\apibase.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76F39E9-DA62-4FCD-9510-9EE5C847CC80}|ApiBase.Application\\ApiBase.Application.csproj|c:\\users\\jbray\\dev\\api-base\\apibase\\apibase.application\\apibase.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C76F39E9-DA62-4FCD-9510-9EE5C847CC80}|ApiBase.Application\\ApiBase.Application.csproj|solutionrelative:apibase.application\\apibase.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiBase.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj",
+              "RelativeToolTip": "ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T00:34:28.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiBase.Application",
+              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Application\\ApiBase.Application.csproj",
+              "RelativeDocumentMoniker": "ApiBase.Application\\ApiBase.Application.csproj",
+              "ToolTip": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Application\\ApiBase.Application.csproj",
+              "RelativeToolTip": "ApiBase.Application\\ApiBase.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-07T00:32:33.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

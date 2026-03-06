@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mxs7qfDEoz4=",
+  "dgSpecHash": "qce0CddHoYU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.API\\ApiBase.API.csproj",
+  "projectFilePath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.API\\ApiBase.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jbray\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
     "C:\\Users\\jbray\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",

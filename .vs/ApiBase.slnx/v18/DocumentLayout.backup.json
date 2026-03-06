@@ -1,24 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{032C382B-6D9C-4410-90BC-7101E1FCFB24}|ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj|c:\\users\\jbray\\dev\\api-base\\apibase\\apibase.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{032C382B-6D9C-4410-90BC-7101E1FCFB24}|ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj|solutionrelative:apibase.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AF1D5E9-D768-41D3-9EFF-173FDB729C22}|ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj|c:\\users\\jbray\\dev\\api-base\\apibase\\apibase.crosscutting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AF1D5E9-D768-41D3-9EFF-173FDB729C22}|ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj|solutionrelative:apibase.crosscutting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C76F39E9-DA62-4FCD-9510-9EE5C847CC80}|ApiBase.Application\\ApiBase.Application.csproj|c:\\users\\jbray\\dev\\api-base\\apibase\\apibase.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C76F39E9-DA62-4FCD-9510-9EE5C847CC80}|ApiBase.Application\\ApiBase.Application.csproj|solutionrelative:apibase.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D32FD286-35BE-49F3-8D17-5FA859E45A0B}|ApiBase.Domain\\ApiBase.Domain.csproj|c:\\users\\jbray\\dev\\api-base\\apibase\\apibase.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D32FD286-35BE-49F3-8D17-5FA859E45A0B}|ApiBase.Domain\\ApiBase.Domain.csproj|solutionrelative:apibase.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\jbray\\DEV\\ApiBase\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,59 +9,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Infrastructure\\Class1.cs",
-              "RelativeDocumentMoniker": "ApiBase.Infrastructure\\Class1.cs",
-              "ToolTip": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Infrastructure\\Class1.cs",
-              "RelativeToolTip": "ApiBase.Infrastructure\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T00:24:28.803Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.CrossCutting\\Class1.cs",
-              "RelativeDocumentMoniker": "ApiBase.CrossCutting\\Class1.cs",
-              "ToolTip": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.CrossCutting\\Class1.cs",
-              "RelativeToolTip": "ApiBase.CrossCutting\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T00:23:51.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "ApiBase.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Application\\Class1.cs",
-              "RelativeToolTip": "ApiBase.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T00:23:25.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "ApiBase.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Domain\\Class1.cs",
-              "RelativeToolTip": "ApiBase.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T00:22:47.525Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

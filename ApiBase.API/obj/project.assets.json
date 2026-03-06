@@ -249,11 +249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.API\\ApiBase.API.csproj",
+      "projectUniqueName": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.API\\ApiBase.API.csproj",
       "projectName": "ApiBase.API",
-      "projectPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.API\\ApiBase.API.csproj",
+      "projectPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.API\\ApiBase.API.csproj",
       "packagesPath": "C:\\Users\\jbray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.API\\obj\\",
+      "outputPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -274,8 +274,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj"
+            "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj"
             }
           }
         }

@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj",
       "projectName": "ApiBase.CrossCutting",
-      "projectPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj",
+      "projectPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.CrossCutting\\ApiBase.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\jbray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.CrossCutting\\obj\\",
+      "outputPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -96,14 +96,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Application\\ApiBase.Application.csproj": {
-              "projectPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Application\\ApiBase.Application.csproj"
+            "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.Application\\ApiBase.Application.csproj": {
+              "projectPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.Application\\ApiBase.Application.csproj"
             },
-            "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Domain\\ApiBase.Domain.csproj": {
-              "projectPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Domain\\ApiBase.Domain.csproj"
+            "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.Domain\\ApiBase.Domain.csproj": {
+              "projectPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.Domain\\ApiBase.Domain.csproj"
             },
-            "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\jbray\\DEV\\api-base\\ApiBase\\ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj"
+            "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\jbray\\DEV\\ApiBase\\ApiBase.Infrastructure\\ApiBase.Infrastructure.csproj"
             }
           }
         }
